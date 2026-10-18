@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc">
+<title id="title">补平方的面积拼图</title><desc id="desc">边长x的正方形右边和上边各放置面积3x的长条，右上角缺少边长3的正方形。补上面积9的角，成为边长x加3的大正方形。</desc>
+<rect width="600" height="380" fill="#faf8f3"/>
+<g stroke="#3c685f" stroke-width="2"><rect x="145" y="130" width="190" height="190" fill="#e3ece3"/><rect x="145" y="60" width="190" height="70" fill="#f2e8d7"/><rect x="335" y="130" width="70" height="190" fill="#f2e8d7"/><rect x="335" y="60" width="70" height="70" fill="#fff" stroke-dasharray="6 4"/></g>
+<g fill="#294a43" font-family="sans-serif" font-size="22" text-anchor="middle"><text x="240" y="228">x²</text><text x="240" y="102">3x</text><text x="370" y="228">3x</text><text x="370" y="102">9</text><text x="240" y="351">x</text><text x="370" y="351">3</text><text x="112" y="228">x</text><text x="112" y="102">3</text></g><text x="445" y="93" fill="#8b6938" font-family="sans-serif" font-size="18">补上的角</text>
+</svg>
